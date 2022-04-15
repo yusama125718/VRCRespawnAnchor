@@ -2,7 +2,7 @@
 -----
 VRChatのワールド用のリスポーン固定ギミックです。\
 Boothで公開しているものです。保管用に置いてるだけなのでできるだけBoothのほうからDLしてもらえるととてもありがたいです。\
-また、こちらをダウンロードした際も下記のリンク先で掲載している利用規約に準拠するものとします。\
+また、こちらをダウンロードした際も下記のリンク先で掲載している利用規約に準拠するものとします。
 
 This repositori is for preservation. Plase downlod in Booth.(Booth URL is below)\
 If you download here, The terms and conditions of the following URL apply.\
